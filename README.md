@@ -1,94 +1,30 @@
-👋 Hi, I'm Will Silk
-Senior Talent Acquisition Specialist | Global Recruitment Consultant | Process Optimization Enthusiast
+# Will Silk
 
-📍 Cape Town, South Africa | ✉️ willsilk16@gmail.com | 📞 +27 64 547 1913
+**Senior Recruiter · RPO & Talent Acquisition · Customer Success**
+Cape Town, South Africa · UK citizen · Remote, any time zone · Available immediately
 
-LinkedIn
-Portfolio
-Calendly
+**[willsilk.github.io](https://willsilk.github.io)** · [Book a 15-min call](https://calendly.com/willsilk/chat-with-will) · [LinkedIn](https://www.linkedin.com/in/willsilk/) · willsilk16@gmail.com
 
-🚀 About Me
-Results-driven Freelance Recruitment Specialist with 4+ years of expertise in end-to-end talent acquisition across digital marketing, technology, healthcare, and renewable energy. I manage international placements for the US, UK, and Australian markets with a 95% client satisfaction track record.
+## About
+Senior recruiter with 5+ years of full-cycle recruitment and RPO for clients in the UK, US and South Africa, built on about ten years of international client service with Lufthansa InTouch and Key Travel. I use AI (Claude, ChatGPT, Perplexity) every day to source, screen and report faster, without losing the human judgement good hiring needs. I also co-run a digital marketing agency, [Velocity Branding](https://velocitybrandinginc.com).
 
-I combine recruitment expertise with Lean Six Sigma Yellow Belt principles, Toyota Kanban workflow management, and Kaizen continuous improvement to deliver exceptional outcomes. Currently expanding into SEO, digital operations, and automation.
+## Results
+- **40%** faster time-to-hire after building a company's first structured hiring process
+- **5** long-open roles filled in **8 weeks** for a US digital marketing client
+- **95%** client satisfaction · **85–90%** offer-acceptance rate
 
-💼 What I Do
-🌍 Global Talent Acquisition — Cross-border recruitment for US, UK & Australian markets
+## What I do
+- **Recruitment & RPO:** full-cycle hiring, Boolean and X-Ray sourcing, LinkedIn Recruiter, screening, offer management
+- **Recruitment operations:** intake processes, SOPs, ATS set-up, KPI reporting
+- **Client & customer success:** owning the relationship from first call to aftercare
 
-🎯 Executive Search & C-Level Hiring — Senior-level recruitment across tech, finance & professional services
+## Recent roles
+- Senior Talent Manager, Global Talent & RPO, Advanced Digital Automotive Group (2026)
+- Co-Founder & RPO Recruitment Consultant, Bridgeway Talent Partners AI (2025 – present)
+- Freelance Recruitment Specialist, Top Company Consultants (2022 – 2024)
+- Medical Recruiter, British Nursing Association / A24 Group (2021 – 2022)
 
-📊 High-Volume BPO Recruitment — 200+ monthly placements using Kanban workflow management
+## Certifications
+AI-Powered Recruiter · Recruitment Analytics Professional · Executive Search Specialist · ATS & Talent Acquisition Expert · Claude 101 · Claude Code 101 · AI Fluency (Anthropic, 2026) · Lean Six Sigma Yellow Belt · ITIL® V4 · Safer Recruitment
 
-🔍 Technical & Specialist Recruiting — Digital marketing, software engineering, healthcare & renewable energy
-
-📈 Process Optimization — Reduced time-to-hire by 40% and CV review time by 60%
-
-🏆 Key Achievements
-Metric	Result
-🎯 Client Satisfaction	95%
-📈 Offer Acceptance Rate	85–90%
-👥 International Placements	50+ candidates
-⚡ Time-to-Hire Reduction	40%
-📊 Qualified Applicant Flow Increase	55%
-🏢 Client Base Growth	60%
-🛠️ Tech Stack & Tools
-ATS & CRM
-HubSpot
-Manatal
-Recruiterflow
-Workable
-
-AI & Automation
-Claude AI
-Perplexity
-Bardeen
-
-Analytics & Productivity
-Power BI
-Google Analytics
-Slack
-Microsoft 365
-
-Sourcing
-LinkedIn Recruiter
-Boolean Search
-X--Ray Search
-
-📜 Certifications
-🟢 Lean Six Sigma Yellow Belt — Alison (2024)
-
-🤖 AI Integration in Recruitment — Alison (2024)
-
-📱 Google Africa Digital Marketing — Google Africa (2024)
-
-🏨 Certified Hospitality Revenue Manager (CHRM) — Alison (2022)
-
-💻 Diploma in Electronics & IT Network Support (MCSC) — College of Cape Town (2003)
-
-🧠 Recruitment Methodology
-text
-📐 Lean Six Sigma  →  DMAIC process improvement for recruitment workflows
-📋 Toyota Kanban   →  Visual workflow & just-in-time candidate pipeline management
-🔄 Kaizen          →  Continuous incremental improvement through data & retrospectives
-🏛️ Stoic Principles →  Rational decision-making, emotional resilience, disciplined focus
-📊 Career Journey
-Period	Role	Focus
-2022 – Present	Freelance Recruitment Specialist	Global talent acquisition, RPO, executive search
-2023 – 2024	Business Office Manager (Freelance)	Operations & compliance at Apex Estate Maintenance
-2023	Talent Acquisition Specialist	Renewable energy recruitment at Terawatt Solar ZA
-2021 – 2023	Recruitment Consultant	Healthcare specialisation at A24 Group
-2013 – 2020	Business Travel Consultant	Corporate travel operations (Key Travel & others)
-🤝 Client Portfolio
-Go Carpathian · Valid · Believe Resourcing Group · Top Company Consultants · YourRightMove · CV Library · Outsource SA · New World Immigration
-
-📫 Let's Connect
-I'm always open to discussing recruitment partnerships, talent acquisition strategy, or process optimization.
-
-🌐 willsilk.mystrikingly.com
-
-💼 linkedin.com/in/willsilk
-
-📅 Book a 30-min call
-
-📧 willsilk16@gmail.com
-
+[Full portfolio and CV](https://willsilk.github.io) · [Recruiter's Claude Kit](https://velocitybrand.gumroad.com/l/iprdfx)
